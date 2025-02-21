@@ -1,1 +1,1 @@
-# musa-capstone
+# MUSA Capstone
